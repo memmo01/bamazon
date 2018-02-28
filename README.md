@@ -7,9 +7,9 @@ The Bamazon Application allows users to select and purchase items within 'Bamazo
 
 Technologies used:
 
-javascript
-node.js
-MYSQL
+javascript, 
+node.js, 
+MYSQL, 
 inquirer
 
 
